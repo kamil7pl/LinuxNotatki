@@ -1,4 +1,5 @@
 
 127.0.0.1 filmik
 https://linuxize.com/post/how-to-set-up-apache-virtual-hosts-on-ubuntu-20-04/
+/var/www/html/nazwa_domeny
 https://www.youtube.com/playlist?list=PLk98zRIZTp8LktG3NKBWcCU1trd20K-WF
